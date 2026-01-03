@@ -15,11 +15,13 @@ A comprehensive, interactive guide to form handling in React from beginner to ad
 ## 🚀 Getting Started
 
 1. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 2. **Run the development server:**
+
    ```bash
    npm run dev
    ```
@@ -32,12 +34,15 @@ A comprehensive, interactive guide to form handling in React from beginner to ad
 This project includes three comprehensive guides:
 
 ### 1. [FORM_HANDLING_GUIDE.md](./FORM_HANDLING_GUIDE.md)
+
 The complete guide with detailed explanations, code examples, and best practices for every level.
 
 ### 2. [QUICK_REFERENCE.md](./QUICK_REFERENCE.md)
+
 A quick reference card with common patterns, code snippets, and debugging tips.
 
 ### 3. Interactive App ([App.jsx](./src/App.jsx))
+
 Live, interactive demos of all form handling concepts. Use the buttons to switch between different levels and see the code in action!
 
 ## 🎨 Features
@@ -51,17 +56,20 @@ Live, interactive demos of all form handling concepts. Use the buttons to switch
 ## 📖 Topics Covered
 
 ### Basic Concepts
+
 - Controlled vs Uncontrolled components
 - Form submission handling
 - Input value management
 
 ### Intermediate
+
 - Multiple field handling with object state
 - Form validation patterns
 - Error handling and display
 - Different input types (radio, checkbox, select, textarea)
 
 ### Advanced
+
 - Custom hooks for reusable form logic
 - Debounced search inputs
 - File upload with preview
@@ -130,7 +138,7 @@ After completing this tutorial, try building:
 ❌ Not using the `name` attribute  
 ❌ Mutating state directly  
 ❌ Using `value` for checkboxes (use `checked`)  
-❌ Not clearing errors as user types  
+❌ Not clearing errors as user types
 
 ## 🎉 You're Ready!
 
